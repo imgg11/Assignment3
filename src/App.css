@@ -1,0 +1,10 @@
+div{
+  text-align: center;
+}
+table{
+  border: 1px solid black;
+  margin: auto;
+}
+td,th{
+  padding: 5px 20px;
+}
